@@ -22,7 +22,6 @@ flask 2.0.3
 tensorflow-deps 2.9.0  
 tensorflow-macos 2.9.2  
 tensorflow-metal 0.5.0  
-  
 &nbsp;
 
 ## Screenshot  
